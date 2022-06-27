@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: rgb(149, 170, 173);
+}
+.wrapper {
+  width: 35vw;
+  display: flex;
+  flex-wrap: wrap;
+}
+.wrapper > div {
+  padding: 1rem;
+  margin: 0.2rem;
+  width: 3.5rem;
+  height: 1.5rem;
+  font-size: 2rem;
+  font-weight: 900;
+  color: rgb(42, 10, 10);
+  text-align: center;
+}
+.red {
+  background-color: rgb(210, 74, 74);
+}
+.green {
+  background-color: rgb(156, 255, 156);
+}
+.yellow {
+  background-color: rgb(223, 223, 117);
+}
