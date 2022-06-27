@@ -9,7 +9,7 @@ body {
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
-  background-color: rgb(149, 170, 173);
+  background-color: rgb(33, 183, 206);
   color: white;
   font-family: "Courier New", Courier, monospace;
 }
@@ -27,13 +27,4 @@ body {
   font-weight: 900;
   color: rgb(42, 10, 10);
   text-align: center;
-}
-.red {
-  background-color: rgb(210, 74, 74);
-}
-.green {
-  background-color: rgb(156, 255, 156);
-}
-.yellow {
-  background-color: rgb(223, 223, 117);
 }
