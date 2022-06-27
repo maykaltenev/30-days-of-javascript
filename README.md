@@ -1,4 +1,4 @@
-# This is a 30-day-challenge for learning JavaScript from https://github.com/Asabeneh/30-Days-Of-JavaScript
+This is a 30-day-challenge for learning JavaScript from https://github.com/Asabeneh/30-Days-Of-JavaScript
 
 # 30 Days Of JavaScript
 
